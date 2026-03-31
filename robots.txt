@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://anyethan.github.io/websiteDraft/sitemap.xml
+Sitemap: https://alshedivat.github.io/al-folio/sitemap.xml
